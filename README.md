@@ -1,4 +1,4 @@
-This is a made website which is a source code of real faceook ,
+This is a fake-made website which is a copy of source code of real faceook ,
 
 <B> How to use it <B>
 
